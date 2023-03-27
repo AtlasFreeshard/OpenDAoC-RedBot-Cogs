@@ -1,0 +1,22 @@
+{
+  "author": "clait",
+  "bot_version_requirement": ">=3.0.0",
+  "description": "A cog that shows online players for the Titan and OpenDAoC servers.",
+  "hidden": false,
+  "install_msg": "Thanks for installing the OpenDAoC cog!",
+  "min_bot_version": "3.0.0",
+  "name": "OpenDaoc",
+  "required_cogs": {},
+  "requirements": [
+    "aiohttp",
+    "matplotlib"
+  ],
+  "short": "Show online players for Titan and OpenDAoC",
+  "tags": [
+    "online",
+    "players",
+    "chart"
+  ],
+  "type": "COG",
+  "version": "1.0.0"
+}
